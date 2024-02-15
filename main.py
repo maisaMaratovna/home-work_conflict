@@ -1,3 +1,3 @@
 print("cat")
-print("cat")
+print("dog")
 print("cat")
