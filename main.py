@@ -1,3 +1,3 @@
 print("cat")
-print("ma")
+print("mad")
 print("cat")
